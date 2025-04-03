@@ -1,4 +1,7 @@
 # for-leraning
 my first git repository.
 <br>
-authro - PRASHANT GANGWAR
+author - PRASHANT GANGWAR.
+<br>
+field - software engineer
+
